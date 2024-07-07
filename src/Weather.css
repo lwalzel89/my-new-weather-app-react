@@ -47,3 +47,8 @@
   line-height: 1;
   top: -34px;
 }
+
+.Weather .btn {
+  background-color: pink;
+  border: none;
+}
